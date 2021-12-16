@@ -1,4 +1,4 @@
-import Button from "./evento/Button";
+import Button from "./Button";
 
 function Evento() {
 
