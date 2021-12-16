@@ -37,5 +37,6 @@
   },
   "main": "index.js",
   "author": "George Neves <georgeneves97@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/geneves97/appReact.git"
 }
